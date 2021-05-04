@@ -10,12 +10,12 @@ public class Program {
         
         Game.init(args);
         
-        Game.graphics().setBaseRenderScale(4.001f);
+        Game.graphics().setBaseRenderScale(8.001f);
 
         Resources.load("game.litidata");
+        ParkourMasterLogic.init();
         Game.world().loadEnvironment("level1");
         Game.screens().add(new IngameScreen());
-        ParkourMasterLogic.init();
         
         Game.start();
     }

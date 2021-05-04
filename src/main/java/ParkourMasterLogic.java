@@ -9,15 +9,18 @@ public final class ParkourMasterLogic {
     }
     
     public static void init() {
+        System.out.println("Initializing...");
         Camera camera = new PositionLockCamera(Player.instance());
         camera.setClampToMap(true);
         Game.world().setCamera(camera);
         
         Game.world().setGravity(100);
-        
+      
         Game.world().onLoaded(e -> {
             Spawnpoint spawn = e.getSpawnpoint("spawn");
+            System.out.println("Loading...");
             if(spawn != null) {
+                System.out.println("Spawn detected");
                 spawn.spawn(Player.instance());
             }
         });
