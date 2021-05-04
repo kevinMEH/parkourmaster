@@ -1,0 +1,18 @@
+May 04, 2021 11:04:41 AM de.gurkenlabs.litiengine.environment.tilemap.xml.TmxMap checkVersion
+WARNING: Tiled version 1.6.0 of map "level1" is greater than the supported version 1.2.x. Some features may not work.
+May 04, 2021 11:04:42 AM de.gurkenlabs.litiengine.environment.MapObjectLoader loadCustomMapObjectProperties
+WARNING: entity #16: value "0" for custom property velocity could not be set.
+May 04, 2021 11:07:01 AM de.gurkenlabs.litiengine.environment.tilemap.xml.TmxMap checkVersion
+WARNING: Tiled version 1.6.0 of map "level1" is greater than the supported version 1.2.x. Some features may not work.
+May 04, 2021 11:07:01 AM de.gurkenlabs.litiengine.environment.MapObjectLoader loadCustomMapObjectProperties
+WARNING: entity #16: value "0" for custom property velocity could not be set.
+May 04, 2021 11:07:53 AM de.gurkenlabs.litiengine.environment.tilemap.xml.TmxMap checkVersion
+WARNING: Tiled version 1.6.0 of map "level1" is greater than the supported version 1.2.x. Some features may not work.
+May 04, 2021 11:07:53 AM de.gurkenlabs.litiengine.environment.MapObjectLoader loadCustomMapObjectProperties
+WARNING: entity #16: value "0" for custom property velocity could not be set.
+May 04, 2021 11:28:01 AM de.gurkenlabs.litiengine.environment.tilemap.xml.TmxMap checkVersion
+WARNING: Tiled version 1.6.0 of map "level1" is greater than the supported version 1.2.x. Some features may not work.
+May 04, 2021 11:30:50 AM de.gurkenlabs.litiengine.environment.tilemap.xml.TmxMap checkVersion
+WARNING: Tiled version 1.6.0 of map "level1" is greater than the supported version 1.2.x. Some features may not work.
+May 04, 2021 11:31:49 AM de.gurkenlabs.litiengine.environment.tilemap.xml.TmxMap checkVersion
+WARNING: Tiled version 1.6.0 of map "level1" is greater than the supported version 1.2.x. Some features may not work.
