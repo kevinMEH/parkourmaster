@@ -2,6 +2,8 @@
 
 Unfortunately, LitiEngine has lots of bugs, and I can't continue this project. I don't blame the devs, some things are maybe *broken* but it may just be because this is my first time working with a game engine, or the fact that I am too lazy / not smart enough to find workarounds / didn't bother reading the docs.
 
+However, this project was not entirely fruitless. LitiEngine has taught me valuable skills and introduced me to ideas such as spritesheets, tiles, textures, tiled maps, game setups, environments, projects setups and more.
+
 Problems:
 
 - There is no idle state on the character, and the idle animation is never used. (isIdle() always return false, even if standing still.) I don't know how to set my character to use its idle animation when he is standing still.
