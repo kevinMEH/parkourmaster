@@ -12,4 +12,8 @@ Problems:
 
 - Gravity isn't acceleration, it's a constant velocity. Too lazy to fix.
 
+- Plus some other smaller bugs. There's still a lot of features for me to implement and I'm very unfamiliar with how this all works.
+
+Next steps: I will try another game engine, maybe libGDX.
+
 Sorry.
