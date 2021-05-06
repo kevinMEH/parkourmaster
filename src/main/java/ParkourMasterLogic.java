@@ -18,9 +18,7 @@ public final class ParkourMasterLogic {
       
         Game.world().onLoaded(e -> {
             Spawnpoint spawn = e.getSpawnpoint("spawn");
-            System.out.println("Loading...");
             if(spawn != null) {
-                System.out.println("Spawn detected");
                 spawn.spawn(Player.instance());
             }
         });

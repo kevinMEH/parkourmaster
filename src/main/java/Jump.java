@@ -14,7 +14,7 @@ import de.gurkenlabs.litiengine.physics.GravityForce;
 
 import java.util.Optional;
 
-@AbilityInfo(cooldown = 250, origin = EntityPivotType.COLLISIONBOX_CENTER, duration = 200, value = 250)
+@AbilityInfo(cooldown = 250, origin = EntityPivotType.COLLISIONBOX_CENTER, duration = 350, value = 175)
 public class Jump extends Ability {
     
     public Jump(Creature executor) {
