@@ -1,5 +1,7 @@
 # Parkour Master
 
+![img.png](img.png)
+
 Unfortunately, LitiEngine has lots of bugs, and I can't continue this project. I don't blame the devs, some things are maybe *broken* but it may just be because this is my first time working with a game engine, or the fact that I am too lazy / not smart enough to find workarounds / didn't bother reading the docs.
 
 However, this project was not entirely fruitless. LitiEngine has taught me valuable skills and introduced me to ideas such as spritesheets, tiles, textures, tiled maps, game setups, environments, projects setups and more.
